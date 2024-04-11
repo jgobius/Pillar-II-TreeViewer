@@ -32,11 +32,6 @@ def generate_company_data(max_subs_per_level=3, num_levels=3):
 
     return df, ultimate_shareholder
 
-# Example usage
-df_fake_companies, ultimate_shareholder = generate_company_data()
-print("Ultimate Shareholder:", ultimate_shareholder)
-
-
 parser = ArgumentParser()
 parser.add_argument('-f', '--output_file', type=str, help='The output file to write the dataframe to. Must be an Excel file')
 

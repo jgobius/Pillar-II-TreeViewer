@@ -1,0 +1,1451 @@
+{
+    "UltimateCompany_0": {
+        "Company1_183": {
+            "ownership": 89,
+            "subsidiaries": {
+                "Company1_183": {
+                    "Company2_328": {
+                        "ownership": 73,
+                        "subsidiaries": {
+                            "Company2_328": {
+                                "Company3_335": {
+                                    "ownership": 77,
+                                    "subsidiaries": {
+                                        "Company3_335": {
+                                            "Company4_481": {
+                                                "ownership": 89,
+                                                "subsidiaries": {
+                                                    "Company4_481": {}
+                                                }
+                                            },
+                                            "Company4_844": {
+                                                "ownership": 56,
+                                                "subsidiaries": {
+                                                    "Company4_844": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_156": {
+                                    "ownership": 93,
+                                    "subsidiaries": {
+                                        "Company3_156": {
+                                            "Company4_650": {
+                                                "ownership": 63,
+                                                "subsidiaries": {
+                                                    "Company4_650": {}
+                                                }
+                                            },
+                                            "Company4_991": {
+                                                "ownership": 64,
+                                                "subsidiaries": {
+                                                    "Company4_991": {}
+                                                }
+                                            },
+                                            "Company4_489": {
+                                                "ownership": 74,
+                                                "subsidiaries": {
+                                                    "Company4_489": {}
+                                                }
+                                            },
+                                            "Company4_883": {
+                                                "ownership": 94,
+                                                "subsidiaries": {
+                                                    "Company4_883": {}
+                                                }
+                                            },
+                                            "Company4_314": {
+                                                "ownership": 60,
+                                                "subsidiaries": {
+                                                    "Company4_314": {}
+                                                }
+                                            },
+                                            "Company4_777": {
+                                                "ownership": 70,
+                                                "subsidiaries": {
+                                                    "Company4_777": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Company2_164": {
+                        "ownership": 77,
+                        "subsidiaries": {
+                            "Company2_164": {
+                                "Company3_842": {
+                                    "ownership": 90,
+                                    "subsidiaries": {
+                                        "Company3_842": {
+                                            "Company4_913": {
+                                                "ownership": 73,
+                                                "subsidiaries": {
+                                                    "Company4_913": {}
+                                                }
+                                            },
+                                            "Company4_988": {
+                                                "ownership": 61,
+                                                "subsidiaries": {
+                                                    "Company4_988": {}
+                                                }
+                                            },
+                                            "Company4_681": {
+                                                "ownership": 76,
+                                                "subsidiaries": {
+                                                    "Company4_681": {}
+                                                }
+                                            },
+                                            "Company4_146": {
+                                                "ownership": 52,
+                                                "subsidiaries": {
+                                                    "Company4_146": {}
+                                                }
+                                            },
+                                            "Company4_282": {
+                                                "ownership": 92,
+                                                "subsidiaries": {
+                                                    "Company4_282": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_185": {
+                                    "ownership": 65,
+                                    "subsidiaries": {
+                                        "Company3_185": {
+                                            "Company4_481": {
+                                                "ownership": 65,
+                                                "subsidiaries": {
+                                                    "Company4_481": {}
+                                                }
+                                            },
+                                            "Company4_128": {
+                                                "ownership": 95,
+                                                "subsidiaries": {
+                                                    "Company4_128": {}
+                                                }
+                                            },
+                                            "Company4_699": {
+                                                "ownership": 91,
+                                                "subsidiaries": {
+                                                    "Company4_699": {}
+                                                }
+                                            },
+                                            "Company4_159": {
+                                                "ownership": 94,
+                                                "subsidiaries": {
+                                                    "Company4_159": {}
+                                                }
+                                            },
+                                            "Company4_451": {
+                                                "ownership": 88,
+                                                "subsidiaries": {
+                                                    "Company4_451": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Company2_645": {
+                        "ownership": 86,
+                        "subsidiaries": {
+                            "Company2_645": {
+                                "Company3_591": {
+                                    "ownership": 62,
+                                    "subsidiaries": {
+                                        "Company3_591": {
+                                            "Company4_680": {
+                                                "ownership": 71,
+                                                "subsidiaries": {
+                                                    "Company4_680": {}
+                                                }
+                                            },
+                                            "Company4_661": {
+                                                "ownership": 94,
+                                                "subsidiaries": {
+                                                    "Company4_661": {}
+                                                }
+                                            },
+                                            "Company4_954": {
+                                                "ownership": 69,
+                                                "subsidiaries": {
+                                                    "Company4_954": {}
+                                                }
+                                            },
+                                            "Company4_897": {
+                                                "ownership": 75,
+                                                "subsidiaries": {
+                                                    "Company4_897": {}
+                                                }
+                                            },
+                                            "Company4_800": {
+                                                "ownership": 55,
+                                                "subsidiaries": {
+                                                    "Company4_800": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_582": {
+                                    "ownership": 100,
+                                    "subsidiaries": {
+                                        "Company3_582": {
+                                            "Company4_837": {
+                                                "ownership": 51,
+                                                "subsidiaries": {
+                                                    "Company4_837": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_373": {
+                                    "ownership": 94,
+                                    "subsidiaries": {
+                                        "Company3_373": {
+                                            "Company4_782": {
+                                                "ownership": 95,
+                                                "subsidiaries": {
+                                                    "Company4_782": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Company1_952": {
+            "ownership": 90,
+            "subsidiaries": {
+                "Company1_952": {
+                    "Company2_149": {
+                        "ownership": 94,
+                        "subsidiaries": {
+                            "Company2_149": {
+                                "Company3_889": {
+                                    "ownership": 99,
+                                    "subsidiaries": {
+                                        "Company3_889": {
+                                            "Company4_508": {
+                                                "ownership": 60,
+                                                "subsidiaries": {
+                                                    "Company4_508": {}
+                                                }
+                                            },
+                                            "Company4_193": {
+                                                "ownership": 65,
+                                                "subsidiaries": {
+                                                    "Company4_193": {}
+                                                }
+                                            },
+                                            "Company4_959": {
+                                                "ownership": 54,
+                                                "subsidiaries": {
+                                                    "Company4_959": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_980": {
+                                    "ownership": 59,
+                                    "subsidiaries": {
+                                        "Company3_980": {
+                                            "Company4_603": {
+                                                "ownership": 65,
+                                                "subsidiaries": {
+                                                    "Company4_603": {}
+                                                }
+                                            },
+                                            "Company4_248": {
+                                                "ownership": 86,
+                                                "subsidiaries": {
+                                                    "Company4_248": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_379": {
+                                    "ownership": 66,
+                                    "subsidiaries": {
+                                        "Company3_379": {
+                                            "Company4_326": {
+                                                "ownership": 83,
+                                                "subsidiaries": {
+                                                    "Company4_326": {}
+                                                }
+                                            },
+                                            "Company4_245": {
+                                                "ownership": 87,
+                                                "subsidiaries": {
+                                                    "Company4_245": {}
+                                                }
+                                            },
+                                            "Company4_394": {
+                                                "ownership": 95,
+                                                "subsidiaries": {
+                                                    "Company4_394": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_952": {
+                                    "ownership": 82,
+                                    "subsidiaries": {
+                                        "Company3_952": {
+                                            "Company4_385": {
+                                                "ownership": 90,
+                                                "subsidiaries": {
+                                                    "Company4_385": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_982": {
+                                    "ownership": 85,
+                                    "subsidiaries": {
+                                        "Company3_982": {
+                                            "Company4_770": {
+                                                "ownership": 77,
+                                                "subsidiaries": {
+                                                    "Company4_770": {}
+                                                }
+                                            },
+                                            "Company4_350": {
+                                                "ownership": 75,
+                                                "subsidiaries": {
+                                                    "Company4_350": {}
+                                                }
+                                            },
+                                            "Company4_347": {
+                                                "ownership": 67,
+                                                "subsidiaries": {
+                                                    "Company4_347": {}
+                                                }
+                                            },
+                                            "Company4_238": {
+                                                "ownership": 95,
+                                                "subsidiaries": {
+                                                    "Company4_238": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Company2_802": {
+                        "ownership": 69,
+                        "subsidiaries": {
+                            "Company2_802": {
+                                "Company3_431": {
+                                    "ownership": 67,
+                                    "subsidiaries": {
+                                        "Company3_431": {
+                                            "Company4_375": {
+                                                "ownership": 72,
+                                                "subsidiaries": {
+                                                    "Company4_375": {}
+                                                }
+                                            },
+                                            "Company4_156": {
+                                                "ownership": 72,
+                                                "subsidiaries": {
+                                                    "Company4_156": {}
+                                                }
+                                            },
+                                            "Company4_763": {
+                                                "ownership": 100,
+                                                "subsidiaries": {
+                                                    "Company4_763": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_324": {
+                                    "ownership": 91,
+                                    "subsidiaries": {
+                                        "Company3_324": {
+                                            "Company4_199": {
+                                                "ownership": 72,
+                                                "subsidiaries": {
+                                                    "Company4_199": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_728": {
+                                    "ownership": 90,
+                                    "subsidiaries": {
+                                        "Company3_728": {
+                                            "Company4_272": {
+                                                "ownership": 86,
+                                                "subsidiaries": {
+                                                    "Company4_272": {}
+                                                }
+                                            },
+                                            "Company4_589": {
+                                                "ownership": 93,
+                                                "subsidiaries": {
+                                                    "Company4_589": {}
+                                                }
+                                            },
+                                            "Company4_950": {
+                                                "ownership": 98,
+                                                "subsidiaries": {
+                                                    "Company4_950": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Company2_923": {
+                        "ownership": 52,
+                        "subsidiaries": {
+                            "Company2_923": {
+                                "Company3_264": {
+                                    "ownership": 100,
+                                    "subsidiaries": {
+                                        "Company3_264": {
+                                            "Company4_778": {
+                                                "ownership": 92,
+                                                "subsidiaries": {
+                                                    "Company4_778": {}
+                                                }
+                                            },
+                                            "Company4_565": {
+                                                "ownership": 61,
+                                                "subsidiaries": {
+                                                    "Company4_565": {}
+                                                }
+                                            },
+                                            "Company4_426": {
+                                                "ownership": 93,
+                                                "subsidiaries": {
+                                                    "Company4_426": {}
+                                                }
+                                            },
+                                            "Company4_267": {
+                                                "ownership": 67,
+                                                "subsidiaries": {
+                                                    "Company4_267": {}
+                                                }
+                                            },
+                                            "Company4_958": {
+                                                "ownership": 99,
+                                                "subsidiaries": {
+                                                    "Company4_958": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_912": {
+                                    "ownership": 53,
+                                    "subsidiaries": {
+                                        "Company3_912": {
+                                            "Company4_656": {
+                                                "ownership": 78,
+                                                "subsidiaries": {
+                                                    "Company4_656": {}
+                                                }
+                                            },
+                                            "Company4_911": {
+                                                "ownership": 72,
+                                                "subsidiaries": {
+                                                    "Company4_911": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_233": {
+                                    "ownership": 80,
+                                    "subsidiaries": {
+                                        "Company3_233": {
+                                            "Company4_307": {
+                                                "ownership": 79,
+                                                "subsidiaries": {
+                                                    "Company4_307": {}
+                                                }
+                                            },
+                                            "Company4_590": {
+                                                "ownership": 56,
+                                                "subsidiaries": {
+                                                    "Company4_590": {}
+                                                }
+                                            },
+                                            "Company4_272": {
+                                                "ownership": 92,
+                                                "subsidiaries": {
+                                                    "Company4_272": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_450": {
+                                    "ownership": 93,
+                                    "subsidiaries": {
+                                        "Company3_450": {
+                                            "Company4_911": {
+                                                "ownership": 81,
+                                                "subsidiaries": {
+                                                    "Company4_911": {}
+                                                }
+                                            },
+                                            "Company4_268": {
+                                                "ownership": 61,
+                                                "subsidiaries": {
+                                                    "Company4_268": {}
+                                                }
+                                            },
+                                            "Company4_866": {
+                                                "ownership": 67,
+                                                "subsidiaries": {
+                                                    "Company4_866": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_137": {
+                                    "ownership": 88,
+                                    "subsidiaries": {
+                                        "Company3_137": {
+                                            "Company4_929": {
+                                                "ownership": 96,
+                                                "subsidiaries": {
+                                                    "Company4_929": {}
+                                                }
+                                            },
+                                            "Company4_702": {
+                                                "ownership": 70,
+                                                "subsidiaries": {
+                                                    "Company4_702": {}
+                                                }
+                                            },
+                                            "Company4_264": {
+                                                "ownership": 69,
+                                                "subsidiaries": {
+                                                    "Company4_264": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Company2_758": {
+                        "ownership": 79,
+                        "subsidiaries": {
+                            "Company2_758": {
+                                "Company3_971": {
+                                    "ownership": 68,
+                                    "subsidiaries": {
+                                        "Company3_971": {
+                                            "Company4_967": {
+                                                "ownership": 71,
+                                                "subsidiaries": {
+                                                    "Company4_967": {}
+                                                }
+                                            },
+                                            "Company4_196": {
+                                                "ownership": 75,
+                                                "subsidiaries": {
+                                                    "Company4_196": {}
+                                                }
+                                            },
+                                            "Company4_237": {
+                                                "ownership": 84,
+                                                "subsidiaries": {
+                                                    "Company4_237": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_415": {
+                                    "ownership": 74,
+                                    "subsidiaries": {
+                                        "Company3_415": {
+                                            "Company4_433": {
+                                                "ownership": 93,
+                                                "subsidiaries": {
+                                                    "Company4_433": {}
+                                                }
+                                            },
+                                            "Company4_616": {
+                                                "ownership": 80,
+                                                "subsidiaries": {
+                                                    "Company4_616": {}
+                                                }
+                                            },
+                                            "Company4_328": {
+                                                "ownership": 70,
+                                                "subsidiaries": {
+                                                    "Company4_328": {}
+                                                }
+                                            },
+                                            "Company4_166": {
+                                                "ownership": 92,
+                                                "subsidiaries": {
+                                                    "Company4_166": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Company1_208": {
+            "ownership": 75,
+            "subsidiaries": {
+                "Company1_208": {
+                    "Company2_215": {
+                        "ownership": 64,
+                        "subsidiaries": {
+                            "Company2_215": {
+                                "Company3_439": {
+                                    "ownership": 52,
+                                    "subsidiaries": {
+                                        "Company3_439": {
+                                            "Company4_150": {
+                                                "ownership": 79,
+                                                "subsidiaries": {
+                                                    "Company4_150": {}
+                                                }
+                                            },
+                                            "Company4_833": {
+                                                "ownership": 87,
+                                                "subsidiaries": {
+                                                    "Company4_833": {}
+                                                }
+                                            },
+                                            "Company4_417": {
+                                                "ownership": 80,
+                                                "subsidiaries": {
+                                                    "Company4_417": {}
+                                                }
+                                            },
+                                            "Company4_423": {
+                                                "ownership": 87,
+                                                "subsidiaries": {
+                                                    "Company4_423": {}
+                                                }
+                                            },
+                                            "Company4_917": {
+                                                "ownership": 66,
+                                                "subsidiaries": {
+                                                    "Company4_917": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_406": {
+                                    "ownership": 94,
+                                    "subsidiaries": {
+                                        "Company3_406": {
+                                            "Company4_719": {
+                                                "ownership": 56,
+                                                "subsidiaries": {
+                                                    "Company4_719": {}
+                                                }
+                                            },
+                                            "Company4_105": {
+                                                "ownership": 87,
+                                                "subsidiaries": {
+                                                    "Company4_105": {}
+                                                }
+                                            },
+                                            "Company4_270": {
+                                                "ownership": 82,
+                                                "subsidiaries": {
+                                                    "Company4_270": {}
+                                                }
+                                            },
+                                            "Company4_612": {
+                                                "ownership": 99,
+                                                "subsidiaries": {
+                                                    "Company4_612": {}
+                                                }
+                                            },
+                                            "Company4_712": {
+                                                "ownership": 85,
+                                                "subsidiaries": {
+                                                    "Company4_712": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_945": {
+                                    "ownership": 78,
+                                    "subsidiaries": {
+                                        "Company3_945": {
+                                            "Company4_793": {
+                                                "ownership": 78,
+                                                "subsidiaries": {
+                                                    "Company4_793": {}
+                                                }
+                                            },
+                                            "Company4_252": {
+                                                "ownership": 94,
+                                                "subsidiaries": {
+                                                    "Company4_252": {}
+                                                }
+                                            },
+                                            "Company4_770": {
+                                                "ownership": 91,
+                                                "subsidiaries": {
+                                                    "Company4_770": {}
+                                                }
+                                            },
+                                            "Company4_394": {
+                                                "ownership": 80,
+                                                "subsidiaries": {
+                                                    "Company4_394": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Company2_687": {
+                        "ownership": 88,
+                        "subsidiaries": {
+                            "Company2_687": {
+                                "Company3_496": {
+                                    "ownership": 82,
+                                    "subsidiaries": {
+                                        "Company3_496": {
+                                            "Company4_957": {
+                                                "ownership": 94,
+                                                "subsidiaries": {
+                                                    "Company4_957": {}
+                                                }
+                                            },
+                                            "Company4_420": {
+                                                "ownership": 66,
+                                                "subsidiaries": {
+                                                    "Company4_420": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_168": {
+                                    "ownership": 91,
+                                    "subsidiaries": {
+                                        "Company3_168": {
+                                            "Company4_438": {
+                                                "ownership": 98,
+                                                "subsidiaries": {
+                                                    "Company4_438": {}
+                                                }
+                                            },
+                                            "Company4_447": {
+                                                "ownership": 90,
+                                                "subsidiaries": {
+                                                    "Company4_447": {}
+                                                }
+                                            },
+                                            "Company4_143": {
+                                                "ownership": 87,
+                                                "subsidiaries": {
+                                                    "Company4_143": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_927": {
+                                    "ownership": 54,
+                                    "subsidiaries": {
+                                        "Company3_927": {
+                                            "Company4_524": {
+                                                "ownership": 69,
+                                                "subsidiaries": {
+                                                    "Company4_524": {}
+                                                }
+                                            },
+                                            "Company4_500": {
+                                                "ownership": 61,
+                                                "subsidiaries": {
+                                                    "Company4_500": {}
+                                                }
+                                            },
+                                            "Company4_242": {
+                                                "ownership": 80,
+                                                "subsidiaries": {
+                                                    "Company4_242": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_194": {
+                                    "ownership": 53,
+                                    "subsidiaries": {
+                                        "Company3_194": {
+                                            "Company4_726": {
+                                                "ownership": 64,
+                                                "subsidiaries": {
+                                                    "Company4_726": {}
+                                                }
+                                            },
+                                            "Company4_289": {
+                                                "ownership": 78,
+                                                "subsidiaries": {
+                                                    "Company4_289": {}
+                                                }
+                                            },
+                                            "Company4_503": {
+                                                "ownership": 76,
+                                                "subsidiaries": {
+                                                    "Company4_503": {}
+                                                }
+                                            },
+                                            "Company4_698": {
+                                                "ownership": 73,
+                                                "subsidiaries": {
+                                                    "Company4_698": {}
+                                                }
+                                            },
+                                            "Company4_508": {
+                                                "ownership": 88,
+                                                "subsidiaries": {
+                                                    "Company4_508": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Company2_136": {
+                        "ownership": 80,
+                        "subsidiaries": {
+                            "Company2_136": {
+                                "Company3_826": {
+                                    "ownership": 90,
+                                    "subsidiaries": {
+                                        "Company3_826": {
+                                            "Company4_433": {
+                                                "ownership": 63,
+                                                "subsidiaries": {
+                                                    "Company4_433": {}
+                                                }
+                                            },
+                                            "Company4_188": {
+                                                "ownership": 54,
+                                                "subsidiaries": {
+                                                    "Company4_188": {}
+                                                }
+                                            },
+                                            "Company4_528": {
+                                                "ownership": 71,
+                                                "subsidiaries": {
+                                                    "Company4_528": {}
+                                                }
+                                            },
+                                            "Company4_417": {
+                                                "ownership": 57,
+                                                "subsidiaries": {
+                                                    "Company4_417": {}
+                                                }
+                                            },
+                                            "Company4_611": {
+                                                "ownership": 62,
+                                                "subsidiaries": {
+                                                    "Company4_611": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Company2_901": {
+                        "ownership": 83,
+                        "subsidiaries": {
+                            "Company2_901": {
+                                "Company3_987": {
+                                    "ownership": 78,
+                                    "subsidiaries": {
+                                        "Company3_987": {
+                                            "Company4_207": {
+                                                "ownership": 83,
+                                                "subsidiaries": {
+                                                    "Company4_207": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_733": {
+                                    "ownership": 70,
+                                    "subsidiaries": {
+                                        "Company3_733": {
+                                            "Company4_599": {
+                                                "ownership": 57,
+                                                "subsidiaries": {
+                                                    "Company4_599": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_245": {
+                                    "ownership": 58,
+                                    "subsidiaries": {
+                                        "Company3_245": {
+                                            "Company4_526": {
+                                                "ownership": 86,
+                                                "subsidiaries": {
+                                                    "Company4_526": {}
+                                                }
+                                            },
+                                            "Company4_529": {
+                                                "ownership": 59,
+                                                "subsidiaries": {
+                                                    "Company4_529": {}
+                                                }
+                                            },
+                                            "Company4_784": {
+                                                "ownership": 65,
+                                                "subsidiaries": {
+                                                    "Company4_784": {}
+                                                }
+                                            },
+                                            "Company4_592": {
+                                                "ownership": 75,
+                                                "subsidiaries": {
+                                                    "Company4_592": {}
+                                                }
+                                            },
+                                            "Company4_891": {
+                                                "ownership": 58,
+                                                "subsidiaries": {
+                                                    "Company4_891": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_862": {
+                                    "ownership": 83,
+                                    "subsidiaries": {
+                                        "Company3_862": {
+                                            "Company4_139": {
+                                                "ownership": 61,
+                                                "subsidiaries": {
+                                                    "Company4_139": {}
+                                                }
+                                            },
+                                            "Company4_273": {
+                                                "ownership": 88,
+                                                "subsidiaries": {
+                                                    "Company4_273": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_292": {
+                                    "ownership": 81,
+                                    "subsidiaries": {
+                                        "Company3_292": {
+                                            "Company4_409": {
+                                                "ownership": 81,
+                                                "subsidiaries": {
+                                                    "Company4_409": {}
+                                                }
+                                            },
+                                            "Company4_656": {
+                                                "ownership": 65,
+                                                "subsidiaries": {
+                                                    "Company4_656": {}
+                                                }
+                                            },
+                                            "Company4_256": {
+                                                "ownership": 58,
+                                                "subsidiaries": {
+                                                    "Company4_256": {}
+                                                }
+                                            },
+                                            "Company4_668": {
+                                                "ownership": 89,
+                                                "subsidiaries": {
+                                                    "Company4_668": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Company1_486": {
+            "ownership": 59,
+            "subsidiaries": {
+                "Company1_486": {
+                    "Company2_788": {
+                        "ownership": 96,
+                        "subsidiaries": {
+                            "Company2_788": {
+                                "Company3_880": {
+                                    "ownership": 98,
+                                    "subsidiaries": {
+                                        "Company3_880": {
+                                            "Company4_458": {
+                                                "ownership": 73,
+                                                "subsidiaries": {
+                                                    "Company4_458": {}
+                                                }
+                                            },
+                                            "Company4_767": {
+                                                "ownership": 78,
+                                                "subsidiaries": {
+                                                    "Company4_767": {}
+                                                }
+                                            },
+                                            "Company4_522": {
+                                                "ownership": 62,
+                                                "subsidiaries": {
+                                                    "Company4_522": {}
+                                                }
+                                            },
+                                            "Company4_520": {
+                                                "ownership": 54,
+                                                "subsidiaries": {
+                                                    "Company4_520": {}
+                                                }
+                                            },
+                                            "Company4_337": {
+                                                "ownership": 100,
+                                                "subsidiaries": {
+                                                    "Company4_337": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_674": {
+                                    "ownership": 80,
+                                    "subsidiaries": {
+                                        "Company3_674": {
+                                            "Company4_845": {
+                                                "ownership": 53,
+                                                "subsidiaries": {
+                                                    "Company4_845": {}
+                                                }
+                                            },
+                                            "Company4_872": {
+                                                "ownership": 59,
+                                                "subsidiaries": {
+                                                    "Company4_872": {}
+                                                }
+                                            },
+                                            "Company4_996": {
+                                                "ownership": 98,
+                                                "subsidiaries": {
+                                                    "Company4_996": {}
+                                                }
+                                            },
+                                            "Company4_917": {
+                                                "ownership": 82,
+                                                "subsidiaries": {
+                                                    "Company4_917": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_156": {
+                                    "ownership": 55,
+                                    "subsidiaries": {
+                                        "Company3_156": {
+                                            "Company4_650": {
+                                                "ownership": 63,
+                                                "subsidiaries": {
+                                                    "Company4_650": {}
+                                                }
+                                            },
+                                            "Company4_991": {
+                                                "ownership": 64,
+                                                "subsidiaries": {
+                                                    "Company4_991": {}
+                                                }
+                                            },
+                                            "Company4_489": {
+                                                "ownership": 74,
+                                                "subsidiaries": {
+                                                    "Company4_489": {}
+                                                }
+                                            },
+                                            "Company4_883": {
+                                                "ownership": 94,
+                                                "subsidiaries": {
+                                                    "Company4_883": {}
+                                                }
+                                            },
+                                            "Company4_314": {
+                                                "ownership": 60,
+                                                "subsidiaries": {
+                                                    "Company4_314": {}
+                                                }
+                                            },
+                                            "Company4_777": {
+                                                "ownership": 70,
+                                                "subsidiaries": {
+                                                    "Company4_777": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_430": {
+                                    "ownership": 93,
+                                    "subsidiaries": {
+                                        "Company3_430": {
+                                            "Company4_133": {
+                                                "ownership": 95,
+                                                "subsidiaries": {
+                                                    "Company4_133": {}
+                                                }
+                                            },
+                                            "Company4_159": {
+                                                "ownership": 51,
+                                                "subsidiaries": {
+                                                    "Company4_159": {}
+                                                }
+                                            },
+                                            "Company4_848": {
+                                                "ownership": 56,
+                                                "subsidiaries": {
+                                                    "Company4_848": {}
+                                                }
+                                            },
+                                            "Company4_543": {
+                                                "ownership": 57,
+                                                "subsidiaries": {
+                                                    "Company4_543": {}
+                                                }
+                                            },
+                                            "Company4_677": {
+                                                "ownership": 87,
+                                                "subsidiaries": {
+                                                    "Company4_677": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Company2_141": {
+                        "ownership": 71,
+                        "subsidiaries": {
+                            "Company2_141": {
+                                "Company3_839": {
+                                    "ownership": 73,
+                                    "subsidiaries": {
+                                        "Company3_839": {
+                                            "Company4_649": {
+                                                "ownership": 58,
+                                                "subsidiaries": {
+                                                    "Company4_649": {}
+                                                }
+                                            },
+                                            "Company4_232": {
+                                                "ownership": 75,
+                                                "subsidiaries": {
+                                                    "Company4_232": {}
+                                                }
+                                            },
+                                            "Company4_382": {
+                                                "ownership": 59,
+                                                "subsidiaries": {
+                                                    "Company4_382": {}
+                                                }
+                                            },
+                                            "Company4_725": {
+                                                "ownership": 86,
+                                                "subsidiaries": {
+                                                    "Company4_725": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_523": {
+                                    "ownership": 63,
+                                    "subsidiaries": {
+                                        "Company3_523": {
+                                            "Company4_519": {
+                                                "ownership": 96,
+                                                "subsidiaries": {
+                                                    "Company4_519": {}
+                                                }
+                                            },
+                                            "Company4_103": {
+                                                "ownership": 79,
+                                                "subsidiaries": {
+                                                    "Company4_103": {}
+                                                }
+                                            },
+                                            "Company4_935": {
+                                                "ownership": 60,
+                                                "subsidiaries": {
+                                                    "Company4_935": {}
+                                                }
+                                            },
+                                            "Company4_179": {
+                                                "ownership": 89,
+                                                "subsidiaries": {
+                                                    "Company4_179": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_840": {
+                                    "ownership": 79,
+                                    "subsidiaries": {
+                                        "Company3_840": {
+                                            "Company4_325": {
+                                                "ownership": 59,
+                                                "subsidiaries": {
+                                                    "Company4_325": {}
+                                                }
+                                            },
+                                            "Company4_405": {
+                                                "ownership": 97,
+                                                "subsidiaries": {
+                                                    "Company4_405": {}
+                                                }
+                                            },
+                                            "Company4_535": {
+                                                "ownership": 71,
+                                                "subsidiaries": {
+                                                    "Company4_535": {}
+                                                }
+                                            },
+                                            "Company4_925": {
+                                                "ownership": 97,
+                                                "subsidiaries": {
+                                                    "Company4_925": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_794": {
+                                    "ownership": 56,
+                                    "subsidiaries": {
+                                        "Company3_794": {
+                                            "Company4_599": {
+                                                "ownership": 75,
+                                                "subsidiaries": {
+                                                    "Company4_599": {}
+                                                }
+                                            },
+                                            "Company4_762": {
+                                                "ownership": 89,
+                                                "subsidiaries": {
+                                                    "Company4_762": {}
+                                                }
+                                            },
+                                            "Company4_890": {
+                                                "ownership": 82,
+                                                "subsidiaries": {
+                                                    "Company4_890": {}
+                                                }
+                                            },
+                                            "Company4_264": {
+                                                "ownership": 98,
+                                                "subsidiaries": {
+                                                    "Company4_264": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_438": {
+                                    "ownership": 85,
+                                    "subsidiaries": {
+                                        "Company3_438": {
+                                            "Company4_786": {
+                                                "ownership": 72,
+                                                "subsidiaries": {
+                                                    "Company4_786": {}
+                                                }
+                                            },
+                                            "Company4_889": {
+                                                "ownership": 92,
+                                                "subsidiaries": {
+                                                    "Company4_889": {}
+                                                }
+                                            },
+                                            "Company4_461": {
+                                                "ownership": 88,
+                                                "subsidiaries": {
+                                                    "Company4_461": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Company1_583": {
+            "ownership": 89,
+            "subsidiaries": {
+                "Company1_583": {
+                    "Company2_312": {
+                        "ownership": 52,
+                        "subsidiaries": {
+                            "Company2_312": {
+                                "Company3_902": {
+                                    "ownership": 51,
+                                    "subsidiaries": {
+                                        "Company3_902": {
+                                            "Company4_685": {
+                                                "ownership": 67,
+                                                "subsidiaries": {
+                                                    "Company4_685": {}
+                                                }
+                                            },
+                                            "Company4_867": {
+                                                "ownership": 53,
+                                                "subsidiaries": {
+                                                    "Company4_867": {}
+                                                }
+                                            },
+                                            "Company4_731": {
+                                                "ownership": 71,
+                                                "subsidiaries": {
+                                                    "Company4_731": {}
+                                                }
+                                            },
+                                            "Company4_309": {
+                                                "ownership": 71,
+                                                "subsidiaries": {
+                                                    "Company4_309": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_243": {
+                                    "ownership": 88,
+                                    "subsidiaries": {
+                                        "Company3_243": {
+                                            "Company4_246": {
+                                                "ownership": 76,
+                                                "subsidiaries": {
+                                                    "Company4_246": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_444": {
+                                    "ownership": 71,
+                                    "subsidiaries": {
+                                        "Company3_444": {
+                                            "Company4_700": {
+                                                "ownership": 83,
+                                                "subsidiaries": {
+                                                    "Company4_700": {}
+                                                }
+                                            },
+                                            "Company4_974": {
+                                                "ownership": 65,
+                                                "subsidiaries": {
+                                                    "Company4_974": {}
+                                                }
+                                            },
+                                            "Company4_127": {
+                                                "ownership": 64,
+                                                "subsidiaries": {
+                                                    "Company4_127": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Company3_524": {
+                                    "ownership": 62,
+                                    "subsidiaries": {
+                                        "Company3_524": {
+                                            "Company4_319": {
+                                                "ownership": 69,
+                                                "subsidiaries": {
+                                                    "Company4_319": {}
+                                                }
+                                            },
+                                            "Company4_335": {
+                                                "ownership": 65,
+                                                "subsidiaries": {
+                                                    "Company4_335": {}
+                                                }
+                                            },
+                                            "Company4_500": {
+                                                "ownership": 69,
+                                                "subsidiaries": {
+                                                    "Company4_500": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
