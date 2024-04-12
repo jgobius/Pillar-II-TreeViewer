@@ -1,19 +1,38 @@
 # Pillar II TreeViewer
 
-The Pillar II TreeViewer is a Python libary that converts an Excel file to an Excel output from which a treeview PivotTable can be created.
+The Pillar II TreeViewer is a Python libary that converts an Excel file to an Excel output from which a treeview PivotTable can be created. An example Excel file can be found in this repository and is named 'dummy.xlsx'.
 
 ## Installation
 
 This package was created using Python 3.12.2
 
 1. Clone from github
-2. Create a virtual environment in the cloned directory:
+2. Create a virtual environment in the cloned directory
+
+    Windows:
+    ```
+    python -m venv venv
+    ```
+
+    MacOs/Linux:
     ```
     python3 -m venv venv
     ```
-3. Install the libraries:
+3. Install the libraries
     ```
     pip install -r requirements.txt
+    ```
+
+4. Activate the virtual environment
+
+    Windows:
+    ```
+    venv\scripts\activate
+    ```
+
+    MacOs/Linux:
+    ```
+    source venv/bin/activate
     ```
 
 ## Usage
